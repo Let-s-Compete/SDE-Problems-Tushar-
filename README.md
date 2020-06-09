@@ -1,4 +1,4 @@
-# SDE-Problems-Tusha
+# SDE-Problems-Tushar
 30 Days Challenge
 
 Day1: (Arrays)
